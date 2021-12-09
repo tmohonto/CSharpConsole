@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.exe
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.deps.json
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.runtimeconfig.json
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.dll
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\bin\Debug\netcoreapp3.1\NestedFor.pdb
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.dll
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.pdb
+C:\Users\Kumer\source\repos\NestedFor\NestedFor\obj\Debug\netcoreapp3.1\NestedFor.genruntimeconfig.cache

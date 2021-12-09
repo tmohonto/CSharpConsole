@@ -1,0 +1,12 @@
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.exe
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.deps.json
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.runtimeconfig.json
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.dll
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\bin\Debug\netcoreapp3.1\RestartProgramWithUserInput.pdb
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.dll
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.pdb
+C:\Users\Kumer\source\repos\RestartProgramWithUserInput\RestartProgramWithUserInput\obj\Debug\netcoreapp3.1\RestartProgramWithUserInput.genruntimeconfig.cache

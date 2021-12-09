@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.exe
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.deps.json
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.runtimeconfig.json
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.dll
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\bin\Debug\netcoreapp3.1\RelationalOrComparisionOperator.pdb
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.dll
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.pdb
+C:\Users\Kumer\source\repos\RelationalOrComparisionOperator\RelationalOrComparisionOperator\obj\Debug\netcoreapp3.1\RelationalOrComparisionOperator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.exe
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.deps.json
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.json
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.dll
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.pdb
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.dll
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.pdb
+C:\Users\Kumer\source\repos\ExplicitInterface\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.genruntimeconfig.cache

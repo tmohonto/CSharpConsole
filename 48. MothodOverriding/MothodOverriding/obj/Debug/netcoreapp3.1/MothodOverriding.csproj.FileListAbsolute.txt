@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.exe
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.deps.json
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.runtimeconfig.json
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.dll
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\bin\Debug\netcoreapp3.1\MothodOverriding.pdb
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.dll
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.pdb
+C:\Users\Kumer\source\repos\MothodOverriding\MothodOverriding\obj\Debug\netcoreapp3.1\MothodOverriding.genruntimeconfig.cache

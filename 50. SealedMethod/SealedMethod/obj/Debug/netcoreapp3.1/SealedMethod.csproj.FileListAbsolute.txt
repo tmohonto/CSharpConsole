@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.exe
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.deps.json
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.runtimeconfig.json
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.dll
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\bin\Debug\netcoreapp3.1\SealedMethod.pdb
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.dll
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.pdb
+C:\Users\Kumer\source\repos\SealedMethod\SealedMethod\obj\Debug\netcoreapp3.1\SealedMethod.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.exe
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.deps.json
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.runtimeconfig.json
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.dll
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\bin\Debug\netcoreapp3.1\MaltiCastDelegate.pdb
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.dll
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.pdb
+C:\Users\Kumer\source\repos\MaltiCastDelegate\MaltiCastDelegate\obj\Debug\netcoreapp3.1\MaltiCastDelegate.genruntimeconfig.cache

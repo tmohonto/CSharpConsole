@@ -1,0 +1,12 @@
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.exe
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.deps.json
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.runtimeconfig.json
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.runtimeconfig.dev.json
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.dll
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\bin\Debug\netcoreapp3.1\TernaryOrconditionalOperator.pdb
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.AssemblyInfoInputs.cache
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.AssemblyInfo.cs
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.csproj.CoreCompileInputs.cache
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.dll
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.pdb
+D:\Tonmoy Work\Csharp\TernaryOrconditionalOperator\TernaryOrconditionalOperator\obj\Debug\netcoreapp3.1\TernaryOrconditionalOperator.genruntimeconfig.cache

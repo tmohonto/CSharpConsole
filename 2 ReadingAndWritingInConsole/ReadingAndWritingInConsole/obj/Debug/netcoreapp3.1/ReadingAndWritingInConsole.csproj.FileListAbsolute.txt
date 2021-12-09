@@ -1,0 +1,13 @@
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.exe
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.deps.json
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.runtimeconfig.json
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.runtimeconfig.dev.json
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\bin\Debug\netcoreapp3.1\ReadingAndWritingInConsole.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.csprojAssemblyReference.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.AssemblyInfoInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.AssemblyInfo.cs
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.csproj.CoreCompileInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\ReadingAndWritingInConsole\ReadingAndWritingInConsole\obj\Debug\netcoreapp3.1\ReadingAndWritingInConsole.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaltiCastDelegate", "MaltiCastDelegate\MaltiCastDelegate.csproj", "{5718CA13-7846-46C5-9693-A2E38700654B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5718CA13-7846-46C5-9693-A2E38700654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5718CA13-7846-46C5-9693-A2E38700654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5718CA13-7846-46C5-9693-A2E38700654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5718CA13-7846-46C5-9693-A2E38700654B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D0C03E-21AD-44B6-A5B0-748AF9A714C3}
+	EndGlobalSection
+EndGlobal

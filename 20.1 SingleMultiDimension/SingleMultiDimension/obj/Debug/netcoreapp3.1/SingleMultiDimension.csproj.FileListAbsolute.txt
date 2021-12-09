@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.exe
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.deps.json
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.runtimeconfig.json
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.dll
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\bin\Debug\netcoreapp3.1\SingleMultiDimension.pdb
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.dll
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.pdb
+C:\Users\Kumer\source\repos\SingleMultiDimension\SingleMultiDimension\obj\Debug\netcoreapp3.1\SingleMultiDimension.genruntimeconfig.cache

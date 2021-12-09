@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.exe
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.deps.json
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.runtimeconfig.json
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.dll
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\bin\Debug\netcoreapp3.1\Collectionsofdata.pdb
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.dll
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.pdb
+C:\Users\Kumer\source\repos\Collectionsofdata\Collectionsofdata\obj\Debug\netcoreapp3.1\Collectionsofdata.genruntimeconfig.cache

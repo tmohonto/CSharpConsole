@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.exe
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.deps.json
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.runtimeconfig.json
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.dll
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\bin\Debug\netcoreapp3.1\AccessSpecifiers2.pdb
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.dll
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.pdb
+C:\Users\Kumer\source\repos\AccessSpecifiers2\AccessSpecifiers2\obj\Debug\netcoreapp3.1\AccessSpecifiers2.genruntimeconfig.cache

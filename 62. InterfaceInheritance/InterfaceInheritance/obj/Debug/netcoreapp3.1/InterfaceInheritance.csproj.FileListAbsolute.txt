@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.exe
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.deps.json
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.runtimeconfig.json
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.dll
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\bin\Debug\netcoreapp3.1\InterfaceInheritance.pdb
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.dll
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.pdb
+C:\Users\Kumer\source\repos\InterfaceInheritance\InterfaceInheritance\obj\Debug\netcoreapp3.1\InterfaceInheritance.genruntimeconfig.cache

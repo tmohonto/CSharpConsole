@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.exe
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.deps.json
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.json
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\Kumer\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.genruntimeconfig.cache

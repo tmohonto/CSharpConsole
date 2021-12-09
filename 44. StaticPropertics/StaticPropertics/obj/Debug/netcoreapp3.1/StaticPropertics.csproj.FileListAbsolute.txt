@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.exe
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.deps.json
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.runtimeconfig.json
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.dll
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\bin\Debug\netcoreapp3.1\StaticPropertics.pdb
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.dll
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.pdb
+C:\Users\Kumer\source\repos\StaticPropertics\StaticPropertics\obj\Debug\netcoreapp3.1\StaticPropertics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.exe
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.deps.json
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.runtimeconfig.json
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.dll
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\bin\Debug\netcoreapp3.1\InheritenceType.pdb
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.dll
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.pdb
+C:\Users\Kumer\source\repos\InheritenceType\InheritenceType\obj\Debug\netcoreapp3.1\InheritenceType.genruntimeconfig.cache

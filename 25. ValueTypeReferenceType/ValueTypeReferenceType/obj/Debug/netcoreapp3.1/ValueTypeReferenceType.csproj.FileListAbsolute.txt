@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.exe
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.deps.json
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.runtimeconfig.json
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.dll
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\bin\Debug\netcoreapp3.1\ValueTypeReferenceType.pdb
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.dll
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.pdb
+C:\Users\Kumer\source\repos\ValueTypeReferenceType\ValueTypeReferenceType\obj\Debug\netcoreapp3.1\ValueTypeReferenceType.genruntimeconfig.cache

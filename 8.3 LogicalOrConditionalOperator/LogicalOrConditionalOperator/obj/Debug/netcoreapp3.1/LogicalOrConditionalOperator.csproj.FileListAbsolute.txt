@@ -1,0 +1,13 @@
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.exe
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.deps.json
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.runtimeconfig.json
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.runtimeconfig.dev.json
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.dll
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\bin\Debug\netcoreapp3.1\LogicalOrConditionalOperator.pdb
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.csprojAssemblyReference.cache
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.AssemblyInfoInputs.cache
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.AssemblyInfo.cs
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.csproj.CoreCompileInputs.cache
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.dll
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.pdb
+D:\Tonmoy Work\Csharp\8.3 LogicalOrConditionalOperator\LogicalOrConditionalOperator\obj\Debug\netcoreapp3.1\LogicalOrConditionalOperator.genruntimeconfig.cache

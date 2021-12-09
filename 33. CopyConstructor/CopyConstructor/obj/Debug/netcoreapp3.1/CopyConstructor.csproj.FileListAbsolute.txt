@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.exe
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.deps.json
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.json
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\bin\Debug\netcoreapp3.1\CopyConstructor.pdb
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.dll
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.pdb
+C:\Users\Kumer\source\repos\CopyConstructor\CopyConstructor\obj\Debug\netcoreapp3.1\CopyConstructor.genruntimeconfig.cache

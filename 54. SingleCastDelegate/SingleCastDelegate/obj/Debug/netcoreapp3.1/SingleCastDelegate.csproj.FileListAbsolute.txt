@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.exe
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.deps.json
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.runtimeconfig.json
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.dll
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\bin\Debug\netcoreapp3.1\SingleCastDelegate.pdb
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.dll
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.pdb
+C:\Users\Kumer\source\repos\SingleCastDelegate\SingleCastDelegate\obj\Debug\netcoreapp3.1\SingleCastDelegate.genruntimeconfig.cache

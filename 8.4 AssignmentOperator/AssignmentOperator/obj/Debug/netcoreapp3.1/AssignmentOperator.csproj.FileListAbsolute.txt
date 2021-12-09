@@ -1,0 +1,13 @@
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.exe
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.deps.json
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.runtimeconfig.json
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.runtimeconfig.dev.json
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.dll
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\bin\Debug\netcoreapp3.1\AssignmentOperator.pdb
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.csprojAssemblyReference.cache
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.AssemblyInfoInputs.cache
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.AssemblyInfo.cs
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.csproj.CoreCompileInputs.cache
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.dll
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.pdb
+D:\Tonmoy Work\Csharp\AssignmentOperator\AssignmentOperator\obj\Debug\netcoreapp3.1\AssignmentOperator.genruntimeconfig.cache

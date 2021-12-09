@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.exe
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.deps.json
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.json
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\Kumer\source\repos\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\Kumer\source\repos\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.genruntimeconfig.cache

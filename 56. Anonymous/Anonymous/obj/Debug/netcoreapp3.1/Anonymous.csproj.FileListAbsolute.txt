@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.exe
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.deps.json
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.runtimeconfig.json
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.dll
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\bin\Debug\netcoreapp3.1\Anonymous.pdb
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.dll
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.pdb
+C:\Users\Kumer\source\repos\Anonymous\Anonymous\obj\Debug\netcoreapp3.1\Anonymous.genruntimeconfig.cache

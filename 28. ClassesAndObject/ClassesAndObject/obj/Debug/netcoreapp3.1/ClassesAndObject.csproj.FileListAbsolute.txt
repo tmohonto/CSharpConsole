@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.exe
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.deps.json
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.runtimeconfig.json
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.dll
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\bin\Debug\netcoreapp3.1\ClassesAndObject.pdb
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.dll
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.pdb
+C:\Users\Kumer\source\repos\ClassesAndObject\ClassesAndObject\obj\Debug\netcoreapp3.1\ClassesAndObject.genruntimeconfig.cache

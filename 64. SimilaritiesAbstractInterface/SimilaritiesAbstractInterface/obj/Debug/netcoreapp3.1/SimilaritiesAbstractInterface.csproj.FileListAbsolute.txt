@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.exe
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.deps.json
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.runtimeconfig.json
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.dll
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\bin\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.pdb
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.dll
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.pdb
+C:\Users\Kumer\source\repos\SimilaritiesAbstractInterface\SimilaritiesAbstractInterface\obj\Debug\netcoreapp3.1\SimilaritiesAbstractInterface.genruntimeconfig.cache

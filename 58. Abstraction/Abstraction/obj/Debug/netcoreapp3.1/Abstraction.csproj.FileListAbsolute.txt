@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Kumer\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.exe
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.deps.json
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.runtimeconfig.json
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.runtimeconfig.dev.json
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\netcoreapp3.1\IntroductionToCsharp.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.csprojAssemblyReference.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.AssemblyInfoInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.AssemblyInfo.cs
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\netcoreapp3.1\IntroductionToCsharp.genruntimeconfig.cache

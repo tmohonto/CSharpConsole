@@ -1,0 +1,13 @@
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.exe
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.deps.json
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.runtimeconfig.json
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.runtimeconfig.dev.json
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.dll
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\bin\Debug\netcoreapp3.1\AritmeticsOpertaors.pdb
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.csprojAssemblyReference.cache
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.AssemblyInfoInputs.cache
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.AssemblyInfo.cs
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.csproj.CoreCompileInputs.cache
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.dll
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.pdb
+C:\Users\tonmoy kumer\source\repos\AritmeticsOpertaors\AritmeticsOpertaors\obj\Debug\netcoreapp3.1\AritmeticsOpertaors.genruntimeconfig.cache

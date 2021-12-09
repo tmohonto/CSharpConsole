@@ -1,0 +1,13 @@
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.exe
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.deps.json
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.runtimeconfig.json
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.runtimeconfig.dev.json
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\bin\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.csprojAssemblyReference.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.AssemblyInfoInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.AssemblyInfo.cs
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.dll
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.pdb
+C:\Users\tonmoy kumer\Desktop\Csharp\AnotherIntroductionToCsharp\AnotherIntroductionToCsharp\obj\Debug\netcoreapp3.1\AnotherIntroductionToCsharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.exe
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.deps.json
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.runtimeconfig.json
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.dll
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\bin\Debug\netcoreapp3.1\VarAndDynamickeywords.pdb
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.dll
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.pdb
+C:\Users\Kumer\source\repos\VarAndDynamickeywords\VarAndDynamickeywords\obj\Debug\netcoreapp3.1\VarAndDynamickeywords.genruntimeconfig.cache

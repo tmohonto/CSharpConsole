@@ -1,0 +1,13 @@
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.exe
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.deps.json
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.json
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.dev.json
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.pdb
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.csprojAssemblyReference.cache
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfoInputs.cache
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfo.cs
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.pdb
+C:\Users\Kumer\source\repos\SealedClass\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.genruntimeconfig.cache

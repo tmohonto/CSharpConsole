@@ -1,0 +1,13 @@
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.exe
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.deps.json
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.runtimeconfig.json
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.runtimeconfig.dev.json
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.dll
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\bin\Debug\netcoreapp3.1\PrecedenceOperator.pdb
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.csprojAssemblyReference.cache
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.AssemblyInfoInputs.cache
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.AssemblyInfo.cs
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.csproj.CoreCompileInputs.cache
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.dll
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.pdb
+D:\Tonmoy Work\Csharp\PrecedenceOperator\PrecedenceOperator\obj\Debug\netcoreapp3.1\PrecedenceOperator.genruntimeconfig.cache
